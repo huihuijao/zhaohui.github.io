@@ -1,0 +1,4 @@
+deployed:
+  type: git
+  repo: https://github.com/huihuijao/zhaohui.github.io.git
+  branch: master
